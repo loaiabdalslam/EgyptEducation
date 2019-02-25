@@ -5,111 +5,111 @@ I've taken some of my skills as a ninja in Python in view and clean the educatio
 These include all of the following:
 
 -Literacy rate, youth female (% of females ages 15-24)<br>
--Literacy rate, youth male (% of males ages 15-24)
--Literacy rate, youth total (% of people ages 15-24)
--Literacy rate, adult female (% of females ages 15 and above)
--Literacy rate, adult male (% of males ages 15 and above)
--Literacy rate, adult total (% of people ages 15 and above)
--Ratio of female to male primary enrollment (%)
--Ratio of girls to boys in primary and secondary education (%)
--Ratio of female to male secondary enrollment (%)
--Ratio of female to male tertiary enrollment (%)
--School enrollment, preprimary (% gross)
--School enrollment, preprimary, female (% gross)
--School enrollment, preprimary, male (% gross)
--Primary school starting age (years)
--Primary completion rate, female (% of relevant age group)
--Primary completion rate, male (% of relevant age group)
--Primary completion rate, total (% of relevant age group)
--Primary education, duration (years)
--Primary education, pupils
--Primary education, pupils (% female)
--Pupil-teacher ratio, primary
--School enrollment, primary (% gross)
--School enrollment, primary, female (% gross)
--School enrollment, primary, male (% gross)
--Gross intake ratio in first grade of primary education, female (% of relevant age group)
--Gross intake ratio in first grade of primary education, male (% of relevant age group)
--Gross intake ratio in first grade of primary education, total (% of relevant age group)
--School enrollment, primary (% net)
--School enrollment, primary, female (% net)
--School enrollment, primary, male (% net)
--Net intake rate in grade 1, female (% of official school-age population)
--Net intake rate in grade 1, male (% of official school-age population)
--Net intake rate in grade 1 (% of official school-age population)
--School enrollment, primary, private (% of total primary)
--Persistence to grade 5, female (% of cohort)
--ersistence to grade 5, male (% of cohort)
--Persistence to grade 5, total (% of cohort)
--Persistence to last grade of primary, female (% of cohort)
--Persistence to last grade of primary, male (% of cohort)
--Persistence to last grade of primary, total (% of cohort)
--Repeaters, primary, female (% of female enrollment)
--Repeaters, primary, male (% of male enrollment)
+-Literacy rate, youth male (% of males ages 15-24)<br>
+-Literacy rate, youth total (% of people ages 15-24)<br>
+-Literacy rate, adult female (% of females ages 15 and above)<br>
+-Literacy rate, adult male (% of males ages 15 and above)<br>
+-Literacy rate, adult total (% of people ages 15 and above)<br>
+-Ratio of female to male primary enrollment (%)<br>
+-Ratio of girls to boys in primary and secondary education (%)<br>
+-Ratio of female to male secondary enrollment (%)<br>
+-Ratio of female to male tertiary enrollment (%)<br>
+-School enrollment, preprimary (% gross)<br>
+-School enrollment, preprimary, female (% gross)<br>
+-School enrollment, preprimary, male (% gross)<br>
+-Primary school starting age (years)<br>
+-Primary completion rate, female (% of relevant age group)<br>
+-Primary completion rate, male (% of relevant age group)<br>
+-Primary completion rate, total (% of relevant age group)<br>
+-Primary education, duration (years)<br>
+-Primary education, pupils<br>
+-Primary education, pupils (% female)<br>
+-Pupil-teacher ratio, primary<br>
+-School enrollment, primary (% gross)<br>
+-School enrollment, primary, female (% gross)<br>
+-School enrollment, primary, male (% gross)<br>
+-Gross intake ratio in first grade of primary education, female (% of relevant age group)<br>
+-Gross intake ratio in first grade of primary education, male (% of relevant age group)<br>
+-Gross intake ratio in first grade of primary education, total (% of relevant age group)<br>
+-School enrollment, primary (% net)<br>
+-School enrollment, primary, female (% net)<br>
+-School enrollment, primary, male (% net)<br>
+-Net intake rate in grade 1, female (% of official school-age population)<br>
+-Net intake rate in grade 1, male (% of official school-age population)<br>
+-Net intake rate in grade 1 (% of official school-age population)<br>
+-School enrollment, primary, private (% of total primary)<br>
+-Persistence to grade 5, female (% of cohort)<br>
+-ersistence to grade 5, male (% of cohort)<br>
+-Persistence to grade 5, total (% of cohort)<br>
+-Persistence to last grade of primary, female (% of cohort)<br>
+-Persistence to last grade of primary, male (% of cohort)<br>
+-Persistence to last grade of primary, total (% of cohort)<br>
+-Repeaters, primary, female (% of female enrollment)<br>
+-Repeaters, primary, male (% of male enrollment)<br>
 -Repeaters, primary, total (% of total enrollment)
--Trained teachers in primary education, female (% of female teachers)
--Trained teachers in primary education, male (% of male teachers)
--Trained teachers in primary education (% of total teachers)
--Primary education, teachers
--Primary education, teachers (% female)
--Adjusted net enrollment rate, primary (% of primary school age children)
--Adjusted net enrollment rate, primary, female (% of primary school age children)
--Adjusted net enrollment rate, primary, male (% of primary school age children)
--Children out of school, primary
--Children out of school, primary, female
--Children out of school, primary, male
--Secondary school starting age (years)
--Lower secondary completion rate, female (% of relevant age group)
--Lower secondary completion rate, male (% of relevant age group)
-Lower secondary completion rate, total (% of relevant age group)
-Secondary education, duration (years)
-Secondary education, pupils
-Secondary education, pupils (% female)
-Secondary education, general pupils
-Secondary education, general pupils (% female)
-Pupil-teacher ratio, secondary
-Secondary education, vocational pupils
-Secondary education, vocational pupils (% female)
-School enrollment, secondary (% gross)
-School enrollment, secondary, female (% gross)
-School enrollment, secondary, male (% gross)
-School enrollment, secondary (% net)
-School enrollment, secondary, female (% net)
-School enrollment, secondary, male (% net)
-School enrollment, secondary, private (% of total secondary)
-Progression to secondary school, female (%)
-Progression to secondary school, male (%)
-Progression to secondary school (%)
-Repeaters, secondary, female (% of female enrollment)
-Repeaters, secondary, male (% of male enrollment)
-Repeaters, secondary, total (% of total enrollment)
-Secondary education, teachers
-Secondary education, teachers, female
-Secondary education, teachers (% female)
-School enrollment, tertiary (% gross)
-School enrollment, tertiary, female (% gross)
-School enrollment, tertiary, male (% gross)
-Tertiary education, teachers (% female)
-Expenditure per student, primary (% of GDP per capita)
-Expenditure per student, secondary (% of GDP per capita)
-Expenditure per student, tertiary (% of GDP per capita)
-Public spending on education, total (% of government expenditure)
-Public spending on education, total (% of GDP)
-Prevalence of HIV, total (% of population ages 15-49)
-Mortality rate, under-5 (per 1,000 live births)
-Labor force with primary education, female (% of female labor force)
-Labor force with primary education, male (% of male labor force)
-Labor force with primary education (% of total)
-Labor force with secondary education, female (% of female labor force)
-Labor force with secondary education, male (% of male labor force)
-Labor force with secondary education (% of total)
-Labor force with tertiary education, female (% of female labor force)
-Labor force with tertiary education, male (% of male labor force)
-Labor force with tertiary education (% of total)
-Labor force, female (% of total labor force)
-Labor force, total
-Unemployment, female (% of female labor force) (modeled ILO estimate)
-Unemployment, male (% of male labor force) (modeled ILO estimate)
-Unemployment, total (% of total labor force) (modeled ILO estimate)
-Population ages 0-14 (% of total)
-Population ages 15-64 (% of total)
+-Trained teachers in primary education, female (% of female teachers)<br>
+-Trained teachers in primary education, male (% of male teachers)<br>
+-Trained teachers in primary education (% of total teachers)<br>
+-Primary education, teachers<br>
+-Primary education, teachers (% female)<br>
+-Adjusted net enrollment rate, primary (% of primary school age children)<br>
+-Adjusted net enrollment rate, primary, female (% of primary school age children)<br>
+-Adjusted net enrollment rate, primary, male (% of primary school age children)<br>
+-Children out of school, primary<br>
+-Children out of school, primary, female<br>
+-Children out of school, primary, male<br>
+-Secondary school starting age (years)<br>
+-Lower secondary completion rate, female (% of relevant age group)<br>
+-Lower secondary completion rate, male (% of relevant age group)<br>
+Lower secondary completion rate, total (% of relevant age group)<br>
+Secondary education, duration (years)<br>
+Secondary education, pupils<br>
+Secondary education, pupils (% female)<br>
+Secondary education, general pupils<br>
+Secondary education, general pupils (% female)<br>
+Pupil-teacher ratio, secondary<br>
+Secondary education, vocational pupils<br>
+Secondary education, vocational pupils (% female)<br>
+School enrollment, secondary (% gross)<br>
+School enrollment, secondary, female (% gross)<br>
+School enrollment, secondary, male (% gross)<br>
+School enrollment, secondary (% net)<br>
+School enrollment, secondary, female (% net)<br>
+School enrollment, secondary, male (% net)<br>
+School enrollment, secondary, private (% of total secondary)<br>
+Progression to secondary school, female (%)<br>
+Progression to secondary school, male (%)<br>
+Progression to secondary school (%)<br>
+Repeaters, secondary, female (% of female enrollment)<br>
+Repeaters, secondary, male (% of male enrollment)<br>
+Repeaters, secondary, total (% of total enrollment)<br>
+Secondary education, teachers<br>
+Secondary education, teachers, female<br>
+Secondary education, teachers (% female)<br>
+School enrollment, tertiary (% gross)<br>
+School enrollment, tertiary, female (% gross)<br>
+School enrollment, tertiary, male (% gross)<br>
+Tertiary education, teachers (% female)<br>
+Expenditure per student, primary (% of GDP per capita)<br>
+Expenditure per student, secondary (% of GDP per capita)<br>
+Expenditure per student, tertiary (% of GDP per capita)<br>
+Public spending on education, total (% of government expenditure)<br>
+Public spending on education, total (% of GDP)<br>
+Prevalence of HIV, total (% of population ages 15-49)<br>
+Mortality rate, under-5 (per 1,000 live births)<br>
+Labor force with primary education, female (% of female labor force)<br>
+Labor force with primary education, male (% of male labor force)<br>
+Labor force with primary education (% of total)<br>
+Labor force with secondary education, female (% of female labor force)<br>
+Labor force with secondary education, male (% of male labor force)<br>
+Labor force with secondary education (% of total)<br>
+Labor force with tertiary education, female (% of female labor force)<br>
+Labor force with tertiary education, male (% of male labor force)<br>
+Labor force with tertiary education (% of total)<br>
+Labor force, female (% of total labor force)<br>
+Labor force, total<br>
+Unemployment, female (% of female labor force) (modeled ILO estimate)<br>
+Unemployment, male (% of male labor force) (modeled ILO estimate)<br>
+Unemployment, total (% of total labor force) (modeled ILO estimate)<br>
+Population ages 0-14 (% of total)<br>
+Population ages 15-64 (% of total)<br>
