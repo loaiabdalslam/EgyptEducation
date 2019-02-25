@@ -4,7 +4,7 @@ I love analyzing educational data.
 I've taken some of my skills as a ninja in Python in view and clean the educational data down from 1980-2013
 These include all of the following:
 
--Literacy rate, youth female (% of females ages 15-24)
+-Literacy rate, youth female (% of females ages 15-24)<br>
 -Literacy rate, youth male (% of males ages 15-24)
 -Literacy rate, youth total (% of people ages 15-24)
 -Literacy rate, adult female (% of females ages 15 and above)
