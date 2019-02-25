@@ -1,7 +1,7 @@
 # EgyptEducation
 This is not an exam for a child who is studying statistics at the primary level!<br>
 I love analyzing educational data.<br>
-### I've taken some of my skills as a ninja in Python in view and clean the educational data down from 1980-2013 These include all of the following:
+### I've taken some of my skills as a ninja in Python in view and clean the educational data down from 1980-2013 your data is wating your awesome Report "My Report After 1 week from now Try to Pull Requset my Data Repo and challange me if you can !" These include all of the following:
 
 -Literacy rate, youth female (% of females ages 15-24)<br>
 -Literacy rate, youth male (% of males ages 15-24)<br>
